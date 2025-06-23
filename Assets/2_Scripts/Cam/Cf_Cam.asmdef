@@ -1,0 +1,17 @@
+{
+    "name": "Cf_Cam",
+    "rootNamespace": "Cf_Cam",
+    "references": [
+        "GUID:e1164720caf621c469924701bd91b34f",
+        "GUID:b0d85f48edfa33047aa9bdcdcdd630d8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
